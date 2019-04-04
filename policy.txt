@@ -1,0 +1,5 @@
+다음과 같습니다.
+
+int main args() {
+	exit;
+}
