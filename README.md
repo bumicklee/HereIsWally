@@ -31,3 +31,6 @@ One of the images from the eval folder should pop up with wally outlined
 
 ## Copyright
 MIT license 2019.04.03
+
+## Announcement
+We are moving to Apache 2 license soon
