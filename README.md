@@ -34,3 +34,4 @@ MIT license 2019.04.03
 
 ## Announcement
 We are moving to Apache 2 license soon
+By the end of 2019
