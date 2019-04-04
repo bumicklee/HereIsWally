@@ -30,4 +30,4 @@ One of the images from the eval folder should pop up with wally outlined
 - [Training Images](https://github.com/vc1492a/Hey-Waldo)
 
 ## Copyright
-MIT license
+MIT license 2019.04.03
