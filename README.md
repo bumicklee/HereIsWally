@@ -40,3 +40,4 @@ By the end of 2019
 다음과 같음
 
 stage 상태가 안보이는데. 소스트리.. 뭔가 바뀐건지..
+commit again
