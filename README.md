@@ -14,12 +14,12 @@ It uses Faster RCNN Inception v2 model initially trained on COCO dataset and ret
 ```
 python find_wally_pretty.py
 ```
-or 
+or
 ```
 python find_wally.py
 ```
 
-One of the images from the eval folder should pop up with wally outlined 
+One of the images from the eval folder should pop up with wally outlined
 
 ## Requirements
 - [Python 3.5+](https://www.continuum.io/download)
@@ -30,6 +30,4 @@ One of the images from the eval folder should pop up with wally outlined
 - [Training Images](https://github.com/vc1492a/Hey-Waldo)
 
 ## Copyright
-
-See [LICENSE](LICENSE) for details.
-Copyright (c) 2017 [Tadej Magajna](http://www.tadejmagajna.com/).
+MIT license
