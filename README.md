@@ -35,3 +35,8 @@ MIT license 2019.04.03
 ## Announcement
 We are moving to Apache 2 license soon
 By the end of 2019
+
+교육안내
+다음과 같음
+
+stage 상태가 안보이는데. 소스트리.. 뭔가 바뀐건지..
